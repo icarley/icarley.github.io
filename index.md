@@ -1,5 +1,5 @@
 <div style="float:right;margin:0 10px 10px 0" markdown="1">
-    ![garden](/images/experimentalgarden.svg)
+    ![garden](https://github.com/icarley/icarley.github.io/blob/images/experimentalgarden.svg)
 </div>
 
 I am an evolutionary ecologist interested in how species-environment interactions drive patterns of biodiversity across scales, from alleles and genes to species and communities. I also find great joy in teaching and mentoring junior scientists. In all of these pursuits, I am committed to helping make STEM, and higher education more broadly, more [equitable, inclusive, and anti-racist](https://sites.duke.edu/biodiversity/) places.<br />
@@ -10,4 +10,4 @@ Currently, I am a postdoctoral researcher at the University of Minnesota, workin
 Click around here to learn more about my research, teaching, outreach, etc.<br />
 <br />
 See also:<br />
-[google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en) & [my CV](http://bit.ly/32lDvuF)
+[google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en), [my CV](http://bit.ly/32lDvuF)
