@@ -1,4 +1,4 @@
-## Lauren Carley, PhD
+# Lauren Carley, PhD
 
 <div style="float:right;margin:0 10px 10px 0" markdown="1">
     ![garden](https://github.com/icarley/icarley.github.io/blob/master/images/experimentalgarden.svg)
