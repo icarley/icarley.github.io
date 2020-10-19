@@ -10,4 +10,4 @@ Currently, I am a postdoctoral researcher at the University of Minnesota, workin
 Click around here to learn more about my research, teaching, outreach, etc.<br />
 <br />
 See also:<br />
-[google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en)
+[google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en) & [my CV](http://bit.ly/32lDvuF)
