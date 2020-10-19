@@ -1,6 +1,6 @@
 # Lauren Carley, PhD
 
-<img alight="left" src="https://raw.githubusercontent.com/icarley/icarley.github.io/master/images/experimentalgarden.svg" width="40%">
+<img align="right" src="https://raw.githubusercontent.com/icarley/icarley.github.io/master/images/experimentalgarden.svg" width="40%">
 
 ![garden](https://raw.githubusercontent.com/icarley/icarley.github.io/master/images/experimentalgarden.svg){:style="float: right;margin-left: 10px;margin-bottom: 10px;"}
 
