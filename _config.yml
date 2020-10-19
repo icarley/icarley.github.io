@@ -13,3 +13,9 @@ google:
   analytics:
   verify:
   scholar: gSyY0jQAAAAJ
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
