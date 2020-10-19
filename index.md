@@ -2,6 +2,8 @@
     ![garden](/images/experimentalgarden.svg)
 </div>
 
+## Lauren Carley, PhD
+
 I am an evolutionary ecologist interested in how species-environment interactions drive patterns of biodiversity across scales, from alleles and genes to species and communities.<br />
 As I pursue these interests, I find great joy in teaching and mentoring junior scientists. I am committed to helping make STEM, and higher education more broadly, more [equitable, inclusive, and anti-racist](https://sites.duke.edu/biodiversity/) places.<br />
 <br />
