@@ -10,3 +10,6 @@ Currently, I am a postdoctoral researcher at the University of Minnesota, workin
 <br />
 
 Check back soon for more information about my research, teaching, and outreach. In the mean time, please see [google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en) and [my CV](http://bit.ly/32lDvuF) for more information. You can also [email me](mailto:lcarley@umn.edu) if you would like to get in touch.
+<br />
+<br />
+<img align="center" src="https://raw.githubusercontent.com/icarley/icarley.github.io/master/images/adult3.svg" width="20%" alt="boechera flowers" title="Artwork by Erin Fox">
