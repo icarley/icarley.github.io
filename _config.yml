@@ -1,1 +1,25 @@
+# Site wide configuration
+
+title: Lauren Carley, PhD
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
 theme: jekyll-theme-minimal
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Lauren Carley
+  avatar: #bio-photo.jpg
+  bio: "Do I want a bio?"
+  email: lauren.n.carley@gmail.com
+  # Do not include the @ symbol in your Twitter username
+  twitter: #add later
+  linkedin: #username
+  github: icarley
+  orcid: 0000-0003-1911-7025
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: gSyY0jQAAAAJ
