@@ -14,4 +14,4 @@ Click around here to learn more about my research, teaching, outreach, etc.<br /
 See also:<br />
 [google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en), [my CV](http://bit.ly/32lDvuF)
 
-[test image](images/experimentalgarden.svg)
+![test image](images/experimentalgarden.svg)
