@@ -1,7 +1,7 @@
 # Lauren Carley, PhD
 
 <div style="float:right;margin:0 10px 10px 0" markdown="1">    
-    ![https://raw.githubusercontent.com/icarley/icarley.github.io/master/images/experimentalgarden.svg](https://raw.githubusercontent.com/icarley/icarley.github.io/master/images/experimentalgarden.svg "Experimental garden")
+    ![garden](https://raw.githubusercontent.com/icarley/icarley.github.io/master/images/experimentalgarden.svg)
 </div>
 
 I am an evolutionary ecologist interested in how species-environment interactions drive patterns of biodiversity across scales, from alleles and genes to species and communities. I also find great joy in teaching and mentoring junior scientists. In all of these pursuits, I am committed to helping make STEM, and higher education more broadly, more [equitable, inclusive, and anti-racist](https://sites.duke.edu/biodiversity/) places.<br />
