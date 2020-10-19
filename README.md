@@ -9,4 +9,4 @@ Currently, I am a postdoctoral researcher at the University of Minnesota, workin
 
 Check back soon for more information about my research, teaching, and outreach. <br />
 <br />
-In the mean time, please see [google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en) and [my CV](http://bit.ly/32lDvuF) for more information.
+In the mean time, please see [google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en) and [my CV](http://bit.ly/32lDvuF) for more information. You can also [email me](mailto:lauren.n.carley@gmail.com) if you would like to get in touch.
