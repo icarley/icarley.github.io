@@ -9,7 +9,7 @@ Currently, I am a postdoctoral researcher at the University of Minnesota, workin
 <br />
 <br />
 
-Check back soon for more information about my research, teaching, and outreach. In the mean time, please see [google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en) and [my CV](http://bit.ly/32lDvuF) for more information. You can also [email me](mailto:lcarley@umn.edu) if you would like to get in touch.
+Check back soon for more information about my research, teaching, and outreach. In the mean time, please see [google scholar](https://scholar.google.com/citations?user=gSyY0jQAAAAJ&hl=en) or [my CV](http://bit.ly/32lDvuF) for more information. You can also [email me](mailto:lcarley@umn.edu) if you would like to get in touch.
 <br />
 <br />
 <p align="center">
